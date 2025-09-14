@@ -1,0 +1,42 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+form {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(blue, greenyellow);
+}
+
+body h1 {
+    background-color:blue ;
+    padding-bottom: 40px;
+    color: red;
+}
+
+body {
+    background-color: gray;
+    border-color:10px black;
+}
+
+body button:hover {
+    background-color: blue;
+    color: black;
+
+}
+
+form {
+    padding-bottom: 50px;
+}
+
+footer {
+    padding-bottom: 40px;
+    background-color: greenyellow;
+}
+
+body form label {
+    color: red;
+    text-shadow: 10px ,black;
+    text-decoration: blue;
+}
